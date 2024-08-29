@@ -1,4 +1,4 @@
-"""print(4*(6+5))
+print(4*(6+5))
 print(4*6+5)
 print(4+6*5)
 print((5>4) and (3==5))
@@ -6,8 +6,8 @@ print(not(5>4))
 print((5>4) or (3==5))
 print(not((5>4) or (3==5)))
 print((True and True)and(True==False))
-print((not True)or(not False))"""
-"""import math
+print((not True)or(not False))
+import math
 n=input("enter the number")
 m=math.sqrt(n)
 print("the squareroot is ",m)
@@ -57,15 +57,15 @@ b=int(input("enter the number"))
 c=(a)/(b)
 d=a//b
 print(c)
-print(d)"""
-#print("""twinkle twinkle little star,
- #           How i wonder what you are!
-  #              Up above the world so high
-   #             like a diamond in the sky
-     #   twinkle twinkle little star,
-       #     How i wonder what you are""")
+print(d)
+print("""twinkle twinkle little star,
+            How i wonder what you are!
+                Up above the world so high
+                like a diamond in the sky
+        twinkle twinkle little star,
+            How i wonder what you are""")
 # Example variables
-"""var1 = "Hello"
+var1 = "Hello"
 var2 = 123
 var3 = 45.67
 
